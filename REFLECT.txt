@@ -1,0 +1,7 @@
+Name: Jackson Pettus
+AUID: jqp0002
+Hours Spent: 25
+Consulted With: NONE
+Resources Used: Java API documentation 
+Impressions: It was a good practice for solving a real world, applicable problem using algorithms.
+NO-PLAGIARISM CERTIFICATION: I certify that I wrote the code I am submitting. I did not copy whole or parts of it from another student or have another person write the code for me. Any code I am reusing in my program from the web or some other source is clearly marked as such with its source clearly identified in comments. I used jGRASP to write and compile my code.
